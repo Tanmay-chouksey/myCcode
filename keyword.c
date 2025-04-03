@@ -171,15 +171,7 @@ int main()
         break;
     
     }
-    switch (num)
-    {
-    case 5:
-        printf("yesssss\n");
-        break;
     
-    default:
-        break;
-    }
    
     
     return 0;
